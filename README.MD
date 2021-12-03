@@ -1,8 +1,8 @@
 # Catalanlz
 
-Personal Website
+Personal Web
 
 ## Website link...
-<https://catalan94.github.io/catalanlz/>
+<https://carloscatalanl.github.io/personal-web/>
 
 
